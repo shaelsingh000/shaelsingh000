@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shaelsingh000
 - 👀 I’m interested in Web Developement and Cyber Security
-- 🌱 I’m currently learning Ethical Hacking and Web Development using NodeJs
+- 🌱 I’m currently learning Ethical Hacking and Web Development using Django and React
 - 💞️ I’m looking to collaborate on Web Development Projects
 - 📫 You can reach me one shaelsingh000@gmail.com
 
